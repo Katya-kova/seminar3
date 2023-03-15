@@ -55,9 +55,15 @@ Git - это консольная утилита, для отслеживани�
 
 
     git diff <harsh1> <harsh2>
+
+# Получение информации о коммитах
+
     git log
     git log --oneline
     git log --all
     git log --all --oneline
+
+# Переход между коммитами 
+
     git checkout <hash>
     git checkout master
